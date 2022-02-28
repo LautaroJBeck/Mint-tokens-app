@@ -4,13 +4,14 @@ El proyecto busca ser una aplicación con la que los desarrolladores de smart co
 
 
 ## Tecnologías utilizadas
-En el frontend:
-- Javascript
-- React 
-- Styled Components
-- Context API
-- Ethers.js
-En el backend
-- Hardhat
-- Node.js
+### En el frontend:
+* Javascript
+* React 
+* Styled Components
+* Context API
+* Ethers.js
+
+### En el backend:
+* Hardhat
+* Node.js
 
